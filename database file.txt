@@ -1,0 +1,5 @@
+create database register;
+use register;
+Show tables;
+Select * from mymodel;
+
